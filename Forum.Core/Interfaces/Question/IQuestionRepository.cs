@@ -1,0 +1,13 @@
+﻿using Forum.Core.Repositories.BaseInterface;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Forum.Core.Interfaces.Question
+{
+    public interface IQuestionRepository : IRepository<Domain.Question>
+    {
+    }
+}
