@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a32aec55-cd3d-4ae0-b3e2-af09241f1191": {
+      "ProjectGuid": "a32aec55-cd3d-4ae0-b3e2-af09241f1191",
+      "DisplayName": "Forum",
+      "ColorIndex": 0
+    },
+    "138c84f8-2ad9-42e9-bfba-8b460fd108e9": {
+      "ProjectGuid": "138c84f8-2ad9-42e9-bfba-8b460fd108e9",
+      "DisplayName": "Forum.Core",
+      "ColorIndex": 1
+    },
+    "d02ea354-c727-41fc-8f0e-74a60ef2bc67": {
+      "ProjectGuid": "d02ea354-c727-41fc-8f0e-74a60ef2bc67",
+      "DisplayName": "Forum.WebApp",
+      "ColorIndex": 2
+    },
+    "8a5b5c72-8d12-4073-b5bc-aa612ed9335a": {
+      "ProjectGuid": "8a5b5c72-8d12-4073-b5bc-aa612ed9335a",
+      "DisplayName": "Forum.Domain",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "6493c2dc-6029-4122-916c-2fbfaf8f3429": {
+      "ProjectGuid": "6493c2dc-6029-4122-916c-2fbfaf8f3429",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 4
+    },
+    "978946ae-f78a-47c2-85c8-f424d5fb47a4": {
+      "ProjectGuid": "978946ae-f78a-47c2-85c8-f424d5fb47a4",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
